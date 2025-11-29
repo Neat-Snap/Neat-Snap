@@ -1,1 +1,1 @@
-<h1 align="center"><a href="https://spikk.dev">spikk.dev</a></h1>
+<h1 align="center"><a href="https://spikk.me">spikk.me</a></h1>
